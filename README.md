@@ -98,6 +98,11 @@ To test the library functions, you can use the provided Makefile to compile unit
 make
 ```
 This will run a series of tests to verify the correct operation of the implemented functions.
+## Clean
+To clean your folder after the "make" you have to use this command:
+```bash
+make fclean
+```
 ## Author
 - rdedola
 ## License
