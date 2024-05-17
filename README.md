@@ -28,7 +28,7 @@ Libft is a project from the 42 school, which involves recreating a series of sta
 Clone the GitHub repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/libft.git
+git clone [https://github.com/your_username/libft.git](https://github.com/remyd06/1-libft.git)
 cd libft
 ```
 
