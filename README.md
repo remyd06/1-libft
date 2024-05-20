@@ -1,8 +1,8 @@
-# Libft
+# Libft ✨
 
 Libft is a library of basic C functions, recreated as part of an educational project to better understand the internal workings of standard functions and to be able to use my own library throughout my studies.
 
-## Table of Contents
+## Table of Contents 📋
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -76,7 +76,7 @@ Here is a list of the functions implemented in this library. For more details, r
 
 ## Functions from `<stdlib.h>`
 
-- [x] [`ft_atoi`](https://github.com/remyd06/1-libft/blob/main/ft_atoi.c) - String to Integer
+- [x] [`ft_atoi`](https://github.com/remyd06/1-libft/bl🙋🏻‍♂️ob/main/ft_atoi.c) - String to Integer
 - [x] [`ft_calloc`](https://github.com/remyd06/1-libft/blob/main/ft_calloc.c) - Allocates and replaces bytes with `\0`.
 - [x] [`ft_itoa`](https://github.com/remyd06/1-libft/blob/main/ft_itoa.c) - Integer to String
 
