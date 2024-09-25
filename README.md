@@ -2,17 +2,17 @@
 
 Libft is a library of basic C functions, recreated as part of an educational project to better understand the internal workings of standard functions and to be able to use my own library throughout my studies.
 
-## Introduction
+## Introduction ✍️
 
 Libft is a project from the 42 school, which involves recreating a series of standard functions from the C library. The main objective is to gain a deep understanding of these functions and to develop a personal library that can be reused for future projects.
 
-## Features
+## Features ⚙️
 
 - Implementation of standard C library functions
 - Deep understanding of algorithms and data structures
 - Use of this library in future projects
 
-## Installation
+## Installation 💻
 
 Clone the GitHub repository to your local machine:
 
@@ -28,15 +28,15 @@ make
 
 This generates a libft.a file that you can include in your C projects.
 
-## Usage
+## Usage 🛠️
 To use Libft in your projects, simply include the header file and link the compiled library:
 ```bash
 #include "libft.h"
 ```
-## Implemented Functions
+## Implemented Functions 📜
 Here is a list of the functions implemented in this library. For more details, refer to the source files in the repository.
 
-## Functions from `<ctype.h>`
+## Functions from `<ctype.h>` 🔤
 
 - [x] [`ft_isalnum`](https://github.com/remyd06/1-libft/blob/main/ft_isalnum.c) - Checks for an alphabetic or a digit character.
 - [x] [`ft_isalpha`](https://github.com/remyd06/1-libft/blob/main/ft_isalpha.c) - Checks for an alphabetic character.
@@ -46,7 +46,7 @@ Here is a list of the functions implemented in this library. For more details, r
 - [x] [`ft_tolower`](https://github.com/remyd06/1-libft/blob/main/ft_tolower.c) - Converts a character its lowercase equivalent.
 - [x] [`ft_toupper`](https://github.com/remyd06/1-libft/blob/main/ft_toupper.c) - Converts a character its upperercase equivalent.
 
-## Functions from `<string.h>`
+## Functions from `<string.h>` 
 
 - [x] [`ft_bzero`](https://github.com/remyd06/1-libft/blob/main/ft_bzero.c) - Replaces bytes with `\0`.
 - [x] [`ft_memchr`](https://github.com/remyd06/1-libft/blob/main/ft_memchr.c) - Scans a byte in a pointer.
@@ -63,13 +63,13 @@ Here is a list of the functions implemented in this library. For more details, r
 - [x] [`ft_strnstr`](https://github.com/remyd06/1-libft/blob/main/ft_strnstr.c) - Scans a substring in a string.
 - [x] [`ft_strrchr`](https://github.com/remyd06/1-libft/blob/main/ft_strrchr.c) - Scans a character in a string in reverse.
 
-## Functions from `<stdlib.h>`
+## Functions from `<stdlib.h>` 
 
 - [x] [`ft_atoi`](https://github.com/remyd06/1-libft/bl🙋🏻‍♂️ob/main/ft_atoi.c) - String to Integer
 - [x] [`ft_calloc`](https://github.com/remyd06/1-libft/blob/main/ft_calloc.c) - Allocates and replaces bytes with `\0`.
 - [x] [`ft_itoa`](https://github.com/remyd06/1-libft/blob/main/ft_itoa.c) - Integer to String
 
-## Non-Standard Functions
+## Non-Standard Functions 
 
 - [x] [`ft_putchar_fd`](https://github.com/remyd06/1-libft/blob/main/ft_putchar_fd.c) - Prints a character.
 - [x] [`ft_putendl_fd`](https://github.com/remyd06/1-libft/blob/main/ft_putendl_fd.c) - Prints a string followed by a newline.
@@ -82,7 +82,7 @@ Here is a list of the functions implemented in this library. For more details, r
 - [x] [`ft_strtrim`](https://github.com/remyd06/1-libft/blob/main/ft_strtrim.c) - Trims the beginning and end of a string.
 - [x] [`ft_substr`](https://github.com/remyd06/1-libft/blob/main/ft_substr.c) - Cuts and allocates a string.
 
-## Bonus Functions
+## Bonus Functions 
 
 - [x] [`ft_lstadd_back`](https://github.com/remyd06/1-libft/blob/main/ft_lstadd_back.c) - Adds an node at the end of a list.
 - [x] [`ft_lstadd_front`](https://github.com/remyd06/1-libft/blob/main/ft_lstadd_front.c) - Adds an node at the beginning of a list.
@@ -93,13 +93,13 @@ Here is a list of the functions implemented in this library. For more details, r
 - [x] [`ft_lstmap`](https://github.com/remyd06/1-libft/blob/main/ft_lstmap.c) - Applies a function to every nodes of a list.
 - [x] [`ft_lstnew`](https://github.com/remyd06/1-libft/blob/main/ft_lstnew.c) - Creates a new list.
 - [x] [`ft_lstsize`](https://github.com/remyd06/1-libft/blob/main/ft_lstsize.c) - Calculates the size of a list.
-## Tests
+## Tests 🧪
 To test the library functions, you can use the provided Makefile to compile unit tests:
 ```bash
 make
 ```
 This will run a series of tests to verify the correct operation of the implemented functions.
-## Clean
+## Clean 🧹
 To clean your folder after the "make" you have to use this command:
 ```bash
 make fclean
