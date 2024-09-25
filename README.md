@@ -2,17 +2,6 @@
 
 Libft is a library of basic C functions, recreated as part of an educational project to better understand the internal workings of standard functions and to be able to use my own library throughout my studies.
 
-## Table of Contents 📋
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Implemented Functions](#implemented-functions)
-- [Tests](#tests)
-- [Author](#author)
-- [License](#license)
-
 ## Introduction
 
 Libft is a project from the 42 school, which involves recreating a series of standard functions from the C library. The main objective is to gain a deep understanding of these functions and to develop a personal library that can be reused for future projects.
@@ -115,7 +104,3 @@ To clean your folder after the "make" you have to use this command:
 ```bash
 make fclean
 ```
-## Author
-- rdedola
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
