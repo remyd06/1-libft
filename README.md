@@ -36,7 +36,7 @@ To use Libft in your projects, simply include the header file and link the compi
 ## Implemented Functions 📜
 Here is a list of the functions implemented in this library. For more details, refer to the source files in the repository.
 
-## Functions from `<ctype.h>` 🔤
+## Functions from `<ctype.h>` 
 
 - [x] [`ft_isalnum`](https://github.com/remyd06/1-libft/blob/main/ft_isalnum.c) - Checks for an alphabetic or a digit character.
 - [x] [`ft_isalpha`](https://github.com/remyd06/1-libft/blob/main/ft_isalpha.c) - Checks for an alphabetic character.
